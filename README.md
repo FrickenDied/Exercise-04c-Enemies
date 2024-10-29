@@ -1,5 +1,7 @@
 # Exercise-04c-Enemies
+MSCH-C220
 
+A simple 2D platformer
 ## Implementation
 
 ## References
@@ -12,6 +14,6 @@ Pixel Platformer tiles provided by Kenney.nl
 https://kenney.nl/assets/pixel-platformer
 
 ## Future Development
-
+Will add collectables
 ## Created by
-Nathan Mishler
+Samuel Styer
