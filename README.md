@@ -1,6 +1,10 @@
 # Exercise-04c-Enemies
 
+MSCH-C220
+
 ## Implementation
+
+Made with Unity 2022.3.45f1
 
 ## References
 
@@ -12,6 +16,7 @@ Pixel Platformer tiles provided by Kenney.nl
 https://kenney.nl/assets/pixel-platformer
 
 ## Future Development
+Will add coins
 
 ## Created by
-Nathan Mishler
+Samuel Styer
